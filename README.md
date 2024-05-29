@@ -1,6 +1,5 @@
 # Project-Alfred_TRD
 
-```markdown
 # Building Alfred: The Humanoid Receptionist Robot
 
 ## Introduction
@@ -104,5 +103,3 @@ This repository contains the technical requirements document and implementation 
   - Deployment and Training: 2 engineers
 
 This README.md provides an overview of the technical requirements and implementation plan for Building Alfred: The Humanoid Receptionist Robot.
-
-```
